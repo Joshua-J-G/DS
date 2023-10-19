@@ -1,0 +1,314 @@
+# Blender MTL File: 'None'
+# Material Count: 24
+
+newmtl BP_ALLhaikei1
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.972549 0.972549 0.972549
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 1
+map_Kd BP_ALLhaikei1.png
+map_Ka BP_ALLhaikei1.png
+map_d BP_ALLhaikei1.png
+
+newmtl BP_StartLine
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.972549 0.972549 0.972549
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd BP_StartLine.png
+map_Ka BP_StartLine.png
+map_d BP_StartLine.png
+
+newmtl BP_ami1
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.972549 0.972549 0.972549
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 2
+map_Kd BP_ami1.png
+map_Ka BP_ami1.png
+map_d BP_ami1.png
+
+newmtl BP_castle
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.972549 0.972549 0.972549
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 2
+map_Kd BP_castle.png
+map_Ka BP_castle.png
+map_d BP_castle.png
+
+newmtl BP_chain1
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.972549 0.972549 0.972549
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 1
+map_Kd BP_chain1.png
+map_Ka BP_chain1.png
+map_d BP_chain1.png
+
+newmtl BP_dokan1
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.972549 0.972549 0.972549
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd BP_dokan1.png
+map_Ka BP_dokan1.png
+map_d BP_dokan1.png
+
+newmtl BP_fuchi_in_B
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.972549 0.972549 0.972549
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd BP_fuchi_in_B.png
+map_Ka BP_fuchi_in_B.png
+map_d BP_fuchi_in_B.png
+
+newmtl BP_fuchi_in_R
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.972549 0.972549 0.972549
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd BP_fuchi_in_R.png
+map_Ka BP_fuchi_in_R.png
+map_d BP_fuchi_in_R.png
+
+newmtl BP_fuchi_out
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.972549 0.972549 0.972549
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd BP_fuchi_out.png
+map_Ka BP_fuchi_out.png
+map_d BP_fuchi_out.png
+
+newmtl BP_house_A
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.972549 0.972549 0.972549
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 2
+map_Kd BP_house_A.png
+map_Ka BP_house_A.png
+map_d BP_house_A.png
+
+newmtl BP_kadan1
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.972549 0.972549 0.972549
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd BP_kadan1.png
+map_Ka BP_kadan1.png
+map_d BP_kadan1.png
+
+newmtl BP_kanban1
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.972549 0.972549 0.972549
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 2
+map_Kd BP_kanban1.png
+map_Ka BP_kanban1.png
+map_d BP_kanban1.png
+
+newmtl BP_kanransha1
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.972549 0.972549 0.972549
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 1
+map_Kd BP_kanransha1.png
+map_Ka BP_kanransha1.png
+map_d BP_kanransha1.png
+
+newmtl BP_kinoko1
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.972549 0.972549 0.972549
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 2
+map_Kd BP_kinoko1.png
+map_Ka BP_kinoko1.png
+map_d BP_kinoko1.png
+
+newmtl BP_kusa1
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.972549 0.972549 0.972549
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 2
+map_Kd BP_kusa1.png
+map_Ka BP_kusa1.png
+map_d BP_kusa1.png
+
+newmtl BP_patapata1
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.972549 0.972549 0.972549
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 2
+map_Kd BP_patapata1.png
+map_Ka BP_patapata1.png
+map_d BP_patapata1.png
+
+newmtl BP_pipe1
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.972549 0.972549 0.972549
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 1
+map_Kd BP_pipe1.png
+map_Ka BP_pipe1.png
+map_d BP_pipe1.png
+
+newmtl BP_roadA
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.972549 0.972549 0.972549
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd BP_roadA.png
+map_Ka BP_roadA.png
+map_d BP_roadA.png
+
+newmtl BP_roadB
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.972549 0.972549 0.972549
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd BP_roadB.png
+map_Ka BP_roadB.png
+map_d BP_roadB.png
+
+newmtl BP_road_Mix
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.972549 0.972549 0.972549
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd BP_road_Mix.png
+map_Ka BP_road_Mix.png
+map_d BP_road_Mix.png
+
+newmtl BP_ship1
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.972549 0.972549 0.972549
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 2
+map_Kd BP_ship1.png
+map_Ka BP_ship1.png
+map_d BP_ship1.png
+
+newmtl BP_tenjo_pipe
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.972549 0.972549 0.972549
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd BP_tenjo_pipe.png
+map_Ka BP_tenjo_pipe.png
+map_d BP_tenjo_pipe.png
+
+newmtl BP_tesuri1
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.972549 0.972549 0.972549
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 1
+map_Kd BP_tesuri1.png
+map_Ka BP_tesuri1.png
+map_d BP_tesuri1.png
+
+newmtl BP_woods
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.972549 0.972549 0.972549
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 2
+map_Kd BP_woods.png
+map_Ka BP_woods.png
+map_d BP_woods.png

@@ -26,7 +26,7 @@ public class P_KartController : MonoBehaviour
     }
     public void Steer(int direction, float amount)
     {
-        rotate = (steering * direction) * amount;
+       // rotate = (steering * direction) * amount;
     }
 
     // Update is called once per frame
